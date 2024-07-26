@@ -1,0 +1,5 @@
+# Đặt hành vi mặc định để tự động chuẩn hóa kết thúc dòng.
+* text=auto
+
+# Xử lý kết thúc dòng cho các loại tệp cụ thể
+*.svg text
