@@ -531,11 +531,11 @@ nav.nav-main ul li.active {
 }
 
 .slick-prev.slick-arrow::before {
-    content: url("./assets/img/slick-prev.svg");
+    content: url("../img/slick-prev.svg");
 }
 
 .slick-next.slick-arrow::before {
-    content: url("./assets/img/slick-next.svg");
+    content: url("../img/slick-next.svg");
 }
 
 
